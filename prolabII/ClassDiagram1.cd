@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="prolabII.Basketbolcu">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAIAAAAAIAAAAABAAAQAAASAAAABAAAAAA=</HashCode>
+      <FileName>Basketbolcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Bilgisayar">
+    <Position X="13.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bilgisayar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.OyunForm" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/8shSUAAgPACCFEEkCDlgpA2ePRYwoSoACACeRB9AzA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Futbolcu">
+    <Position X="3.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAALAAAAAAAAIAAAAAAACAAAAQAAASAAAAAAAAAAA=</HashCode>
+      <FileName>Futbolcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Kullanici">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kullanici.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Oyuncu">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgCAABAAAAAEEAgAAAAAAABQAAAAGAA=</HashCode>
+      <FileName>Oyuncu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Program" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Sporcu">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAEAAAAAAACAAAAAAAAAAAAAAAAAAAACAAAAAAAAgAA=</HashCode>
+      <FileName>Sporcu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Test">
+    <Position X="6.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAECAAAAAAAAAAAAAgAAAAEAAAAAIAAAAAAAAAAIAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Properties.Resources" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="prolabII.Properties.Settings" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
